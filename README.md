@@ -1,8 +1,9 @@
 # audio_play
 
-A new Flutter project.
 
-## Getting Started
+I made use of just audio and audio service to play songs
+and get notification player.. 
+on query songs was used to fetch the audio files inside the phone 
 
 This project is a starting point for a Flutter application.
 
